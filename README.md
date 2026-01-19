@@ -1,5 +1,9 @@
 # turbo
 
+## Methodology
+
+- https://github.com/cumbucadev/mentoria/tree/main/mentoria/metodologia
+
 ## Theory
 
 Git and Github
@@ -12,7 +16,9 @@ Python (60 horas)
 
 Tests
 
-## Practice : Project **Drink Recipes**
+## Practice (Guided Work): Project
+
+## Practice (Independent Work): Project Drink Recipes
 
 ### Project goal
 
