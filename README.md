@@ -23,4 +23,4 @@ Tests
 
 ## Practice (Independent Work): Project Drink Recipes
 
-- https://github.com/camilamaia/turbo/blob/main/DRINK_RECIPES.md
+- [DRINK_RECIPES.md](DRINK_RECIPES.md)
