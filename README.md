@@ -2,7 +2,7 @@
 
 ## Methodology
 
-- https://github.com/cumbucadev/mentoria/tree/main/mentoria/metodologia
+- https://github.com/cumbucadev/mentoria/tree/main/mentoria/metodologia/README.md
 
 ## Theory
 
