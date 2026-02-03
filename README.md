@@ -7,11 +7,11 @@
 ## Theory
 
 Git and Github
-- https://git-e-github.para-humanos.cumbuca.dev/ (book)
-- https://linuxtips.io/treinamentos-essentials/ (course pt-br)
+- https://git-e-github.para-humanos.cumbuca.dev/ (book, pt-br)
+- https://linuxtips.io/treinamento/github-essentials/ (course pt-br)
 
 Python (60 horas)
-- https://runestone.academy/ns/books/published/thinkcspy/index.html
+- https://runestone.academy/ns/books/published/thinkcspy/index.html (book, en)
 - https://linuxtips.io/treinamento/python-base/ (course pt-br)
 
 ## Practice (Guided Work): Project
