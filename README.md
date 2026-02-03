@@ -22,6 +22,6 @@ Python (60 horas)
 
 - [DRINK_RECIPES.md](DRINK_RECIPES.md)
 
-## Sprint Notes
+## Sprints' Notes
 
 - [SPRINTS.md](SPRINTS.md)
