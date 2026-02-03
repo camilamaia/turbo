@@ -1,5 +1,8 @@
 # Sprint 1
 
+- Avoid using AI to learn and solve problems. Specific queries are okay.
+- It needs to be fun!
+
 ## Tasks
 
 ### General
@@ -35,3 +38,5 @@
   - Make it comfortable and organized.
 - Avoid working in pyjamas — dress for work to boost productivity.
 - Set clear start and end times for your workday.
+
+
