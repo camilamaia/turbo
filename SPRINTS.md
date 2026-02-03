@@ -8,7 +8,7 @@
 ### General
 
 - [ ] Install and use a Pomodoro App.
-- [ ] Read the [mentorship's methodology](https://github.com/cumbucadev/mentoria/blob/main/mentoria/metodologia/README.md).
+- [x] Read the [mentorship's methodology](https://github.com/cumbucadev/mentoria/blob/main/mentoria/metodologia/README.md).
 
 ### Theory
 
