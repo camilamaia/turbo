@@ -7,13 +7,13 @@
 
 ### General
 
-- [ ] Install and use a Pomodoro App.
+- [x] Install and use a Pomodoro App.
 - [x] Read the [mentorship's methodology](https://github.com/cumbucadev/mentoria/blob/main/mentoria/metodologia/README.md).
 
 ### Theory
 
 - How to Think Like a Computer Scientist
-  - [ ] [Chapter 1](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/toctree.html).
+  - [x] [Chapter 1](https://runestone.academy/ns/books/published/thinkcspy/GeneralIntro/toctree.html).
   - [ ] [Chapter 2](https://runestone.academy/ns/books/published/thinkcspy/SimplePythonData/toctree.html).
   - [ ] [Chapter 3](https://runestone.academy/ns/books/published/thinkcspy/Debugging/toctree.html).
 
